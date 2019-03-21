@@ -1,8 +1,7 @@
 import Vue from 'vue';
 import App from './app.vue';
 
-import './assets/styles/test.less';
-import './assets/images/u3.png'
+import './assets/styles/global.less';
 
 const root = document.createElement('div');
 document.body.appendChild(root);
