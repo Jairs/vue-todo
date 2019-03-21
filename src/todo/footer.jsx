@@ -1,3 +1,5 @@
+import '../assets/styles/footer.less'
+
 export default {
     data(){
         return{
